@@ -1,2 +1,2 @@
 # personnal-cv
-A basic webSite to my CV
+A basic website to my CV
